@@ -1,4 +1,4 @@
-#  Projectile
+#  Weapon
 Create a object `obj_weapon`.
 -  **Create Event**
 ```js
