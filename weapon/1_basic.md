@@ -1,11 +1,11 @@
 #  Projectile
-
--  **Create Event**. 
+Create a object `obj_weapon`.
+-  **Create Event**
 ```js
 cooldown_rate = 15
 cooldown = cooldown_rate
 ```
--  **Step Event**. 
+-  **Step Event**
 ```js
 shoot = mouse_check_button(mb_left);
 

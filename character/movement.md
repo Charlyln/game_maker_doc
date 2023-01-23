@@ -1,6 +1,6 @@
 
 #  Movement
-
+Create a object `obj_player`.
 -  **Create Event**
 ```js
 move_speed = 2
